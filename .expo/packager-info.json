@@ -1,8 +1,8 @@
 {
-  "expoServerPort": 19002,
-  "packagerPort": 19003,
-  "packagerPid": 6744,
+  "expoServerPort": 19000,
+  "packagerPort": 19002,
+  "packagerPid": 7874,
   "expoServerNgrokUrl": "https://dr-f79.esauri.sticky.exp.direct",
   "packagerNgrokUrl": "https://packager.dr-f79.esauri.sticky.exp.direct",
-  "ngrokPid": 6760
+  "ngrokPid": 7888
 }
