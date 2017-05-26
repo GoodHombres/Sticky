@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

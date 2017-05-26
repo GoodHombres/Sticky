@@ -1,15 +1,15 @@
 dependencies: \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTPerformanceLogger.m \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Profiler/RCTProfile.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTPerformanceLogger.m \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Profiler/RCTProfile.h

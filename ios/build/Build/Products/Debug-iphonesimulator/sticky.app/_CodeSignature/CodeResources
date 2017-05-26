@@ -5,9 +5,14 @@
 	<key>files</key>
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
-		<data>
-		9RyZRrDjtOsPZNeRg7GlIRW6DUg=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			W7TNsDJD7/segXNWB1p3pdNEGeo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Entypo.ttf</key>
 		<data>
 		R4cKZ91Qhxdl95nKqX2ochnuR8U=
@@ -239,7 +244,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TWSnQrKv9d4FxdLbZQ+/ofK1adQ=
+		RstpJBhYEH/PURiOKuLVmNuM1z8=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -267,7 +272,7 @@
 		</data>
 		<key>PlugIns/stickyTests.xctest.dSYM/Contents/Resources/DWARF/stickyTests</key>
 		<data>
-		HaFgzjncmnvLRxQoMZ4sSEkr0tQ=
+		/eBLxhjxi+KYjSIQSv80iGn2snQ=
 		</data>
 		<key>PlugIns/stickyTests.xctest/Info.plist</key>
 		<data>
@@ -279,7 +284,7 @@
 		</data>
 		<key>PlugIns/stickyTests.xctest/stickyTests</key>
 		<data>
-		K2GBHox23E61tOnHudtRRUi2O9w=
+		DmKhO/ZXmsXtTJQYm6+fD+B/z6I=
 		</data>
 		<key>Rubik-Black.ttf</key>
 		<data>
@@ -340,12 +345,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9RyZRrDjtOsPZNeRg7GlIRW6DUg=
+			W7TNsDJD7/segXNWB1p3pdNEGeo=
 			</data>
 			<key>hash2</key>
 			<data>
-			EfhlnK25k/JBypo0BKc0nfEVxOcdbE/jYb7X+zH6ruQ=
+			qPoB/8Rrjr+qu0N0tko6eA/Im6lYjP9218ztpgRrT20=
 			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Entypo.ttf</key>
 		<dict>
@@ -1024,11 +1031,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HaFgzjncmnvLRxQoMZ4sSEkr0tQ=
+			/eBLxhjxi+KYjSIQSv80iGn2snQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SRY+yjxaO69KYjLpyr3gTY+ty9rasJtX7BQJEz94+yE=
+			W0q/3LbmrTc8RlUT9WqDXsSPxE3HuQt3QwTLX6ZBEnw=
 			</data>
 		</dict>
 		<key>PlugIns/stickyTests.xctest/Info.plist</key>
@@ -1057,11 +1064,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K2GBHox23E61tOnHudtRRUi2O9w=
+			DmKhO/ZXmsXtTJQYm6+fD+B/z6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			wE7WEFY6DgwHbNKuwxwxD1FjDogbIEndCpCS5uQ9Ec4=
+			f/XWbSZdd1WW1XOAz4+wDmau3vr2f3u2HYNzUNkNQ3Q=
 			</data>
 		</dict>
 		<key>Rubik-Black.ttf</key>
@@ -1226,11 +1233,6 @@
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
 		<key>^version.plist$</key>
 		<true/>
 	</dict>
@@ -1275,11 +1277,6 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
-		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>

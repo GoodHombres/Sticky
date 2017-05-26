@@ -1,20 +1,16 @@
-dependencies: /Users/ericksauri/Code/sticky/ios/stickyTests/stickyTests.m \
+dependencies: \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/stickyTests/stickyTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUICoordinate.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUISiriService.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIDevice.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypeQueryProvider.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypes.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementAttributes.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElement.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIApplication.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSPredicateExpectation.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSNotificationExpectation.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTKVOExpectation.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTDarwinNotificationExpectation.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h \
@@ -25,7 +21,6 @@ dependencies: /Users/ericksauri/Code/sticky/ios/stickyTests/stickyTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestExpectation.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCaseRun.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTWaiter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase+AsynchronousTesting.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertionsImpl.h \
@@ -34,14 +29,14 @@ dependencies: /Users/ericksauri/Code/sticky/ios/stickyTests/stickyTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

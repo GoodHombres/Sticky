@@ -4,16 +4,24 @@
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
@@ -32,10 +40,6 @@
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_textfield_search_material.xml"
     },
@@ -52,8 +56,16 @@
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -72,8 +84,12 @@
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
@@ -86,5 +102,77 @@
     {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable/abc_btn_colored_material.xml"
     }
 ]

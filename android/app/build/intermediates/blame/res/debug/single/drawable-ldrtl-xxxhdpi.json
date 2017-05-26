@@ -4,6 +4,14 @@
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
@@ -12,7 +20,15 @@
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     }
 ]

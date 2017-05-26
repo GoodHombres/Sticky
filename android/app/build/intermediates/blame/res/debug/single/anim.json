@@ -12,16 +12,16 @@
         "source": "/Users/ericksauri/.android/build-cache/4ed8cf3b552e36cad49e298018ce20a215d7e5cf/output/res/anim/fade_in.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/cmedina/.android/build-cache/b5d9e40382c1eab9ce8500e56dd48ea25369786d/output/res/anim/fade_in.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
@@ -36,8 +36,8 @@
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/cmedina/.android/build-cache/b5d9e40382c1eab9ce8500e56dd48ea25369786d/output/res/anim/slide_up.xml"
     },
     {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
@@ -60,7 +60,71 @@
         "source": "/Users/ericksauri/.android/build-cache/4ed8cf3b552e36cad49e298018ce20a215d7e5cf/output/res/anim/slide_down.xml"
     },
     {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/cmedina/.android/build-cache/b5d9e40382c1eab9ce8500e56dd48ea25369786d/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/cmedina/.android/build-cache/b5d9e40382c1eab9ce8500e56dd48ea25369786d/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/cmedina/.android/build-cache/b5d9e40382c1eab9ce8500e56dd48ea25369786d/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/cmedina/.android/build-cache/2ee9084b7526a5fb398b1c36e35bc3de6a6f1006/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/cmedina/.android/build-cache/b5d9e40382c1eab9ce8500e56dd48ea25369786d/output/res/anim/fade_out.xml"
     }
 ]

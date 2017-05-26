@@ -1,12 +1,12 @@
 dependencies: \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTTouchEvent.m \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTTouchEvent.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTAssert.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTTouchEvent.m \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTTouchEvent.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTAssert.h

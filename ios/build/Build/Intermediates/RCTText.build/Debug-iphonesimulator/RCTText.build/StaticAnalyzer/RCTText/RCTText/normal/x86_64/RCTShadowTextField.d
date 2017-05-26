@@ -1,16 +1,16 @@
 dependencies: \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/Libraries/Text/RCTShadowTextField.m \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/Libraries/Text/RCTShadowTextField.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/Libraries/Text/RCTShadowTextField.m \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/Libraries/Text/RCTShadowTextField.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

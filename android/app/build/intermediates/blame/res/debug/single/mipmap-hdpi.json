@@ -2,5 +2,9 @@
     {
         "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/ericksauri/Code/sticky/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]
