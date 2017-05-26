@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/ericksauri/Code/sticky/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/ericksauri/Code/sticky/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/ericksauri/Code/sticky/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/ericksauri/Code/sticky/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/ericksauri/Code/sticky/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h
