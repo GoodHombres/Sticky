@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="imagepipeline-1.0.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/852076c84227aa11e84af609ad78a4e0cddb5c6b/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/852076c84227aa11e84af609ad78a4e0cddb5c6b/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/203a2804b75542bae6fae1ed8db27a9127e78d41/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/203a2804b75542bae6fae1ed8db27a9127e78d41/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

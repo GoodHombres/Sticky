@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTErrorInfo.m \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTErrorInfo.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTJSStackFrame.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTErrorInfo.m \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTErrorInfo.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTJSStackFrame.h

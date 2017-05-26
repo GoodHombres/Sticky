@@ -1,17 +1,17 @@
 dependencies: \
-  /Users/ericksauri/Code/sticky/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradient.m \
-  /Users/ericksauri/Code/sticky/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradient.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradient.m \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradient.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

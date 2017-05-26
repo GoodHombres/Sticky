@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/ericksauri/Code/sticky/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/DevSupport/RCTPackagerClientResponder.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
-  /Users/ericksauri/Code/sticky/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/DevSupport/RCTPackagerClientResponder.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/cmedina/Documents/Developer/Apps/reactApps/Sticky/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
