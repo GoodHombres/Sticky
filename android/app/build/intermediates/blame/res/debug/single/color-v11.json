@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ericksauri/Code/sticky/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

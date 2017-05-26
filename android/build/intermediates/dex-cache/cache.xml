@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_374d3d356704a7b4784590140a964373b7673e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_0cef077d26e974f6367260272a35e1460cc3d374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_57c07f67bbf5b0269d28dd335b7c6a595717978e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/4ed8cf3b552e36cad49e298018ce20a215d7e5cf/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_b3e42b99a83d536f0d2dc096a80a491c6393ffb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_f732957366cfcb2615aaca29320f5918609c7933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/de8243c30b00c049d13e9007e49fd8050d897149/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_750391910e245cbb3e13ea0bb6307af329c0b806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/6d75db257b5552fb81b4f74a986dd0086c0b3709/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_b72d7f931158ea3920ef5cd3f1bfd71e36e5f510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/77c65e27af2d340914d8afc5496ad37ed0a881a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_d2597787d0ded9030e8405e192b1860512accb3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/b3e5385a8655da84eca6cfbde771a925f1267dde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_5943972f26c375eb8e6629105e8ac9119b2a0af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/Code/sticky/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_534ce78641150ba2e9feb0e1fb80e8a378be5c33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/Code/sticky/node_modules/react-native-share/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac1a52d84feee696d966c36344425e8fd9cd515">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_d9fd7c296415c587c9a906eaf0705735dcaf5049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5e7d3894d15fb1ccf8ef368f051b2da00e99c72d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/Code/sticky/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1de8f75805268154da5e88bb6195760b9d8966f">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_8f12a0ae12312801c3d936c30e3b45b2661cbf29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/0e07c4e7bf4d2cffaf86b7c156d8257c5d574ee6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_7bfa606506063803e6a1e2b81c8cffe69915b0f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_3ac592f754cc179bf0ade173cb3eb85e1f3ebb9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/ef699edf6f7b9b019237d52cd0302174d395c32c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5ceac4d4c5f5559d813fb8e0419203a51b40462">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_d72ac61349cabab534a083d8fca69c2eace2b9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_6817c471733e45d30e8b3326e11097135e091b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/301867e3b13a7d8639c51bff3940f56716bfb8a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_418633185a97795765e0b2e995e4bbf52ca9ce2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/852076c84227aa11e84af609ad78a4e0cddb5c6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_4f551fe980f3e1bd9df303cc9835eb157aac16d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/24be13f72bd5956a53fda77ac3487c31b7d6d990/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_e156a8c0d68e11f17da63ec559d006ac965356dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/Code/sticky/node_modules/react-native-photo-view/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84b3eb73e4553d4614543e95933ecb8a4ebcd3b2">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_ccb3708398f1f6e7d750bfa38a87d1564e6b7615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/2d0854b47b545f3ecdc0d853dd44b746a3d27c83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_497aa2ccbedd2ed7cfecacffc5e43ad52817dbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/Code/sticky/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66cd78e49857db01469aaa1a28d274c9aa424bf5">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_1f7efa1fff4cc04de23535dc743202be38d9d90c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_92d385f75700e0ccf7cf270933069491f30c96f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_4ed450bace8c1eb48d2515d7fe2fa897d3434c24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_3e4f52db97589ef2bf6938c4fd46ec036b0728aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/4ed8cf3b552e36cad49e298018ce20a215d7e5cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_3f181935de52f30b88f3b231c51569393a996545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_5942555ea34c5b070f4b715f8aea000c9b6d4b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/de8243c30b00c049d13e9007e49fd8050d897149/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_bb557a5aee6594760ac7133309d352655f0b21b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_d3d9b39d91751bd0fe3e7697ba619aa632c5b2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericksauri/.android/build-cache/1e202bb8bc5843f492703328121aa1d6b5bcda78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/ericksauri/Code/sticky/android/app/build/intermediates/pre-dexed/debug/classes_34563f5b4a47bc463ea4e46035af73b8e5aa07b1.jar" />
+    </item>
+
+</items>
